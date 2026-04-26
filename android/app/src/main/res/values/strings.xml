@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Jaddid Hayatak</string>
+    <string name="title_activity_main">Jaddid Hayatak</string>
+    <string name="package_name">org.workshopdiy.jaddidhayatak</string>
+    <string name="custom_url_scheme">org.workshopdiy.jaddidhayatak</string>
+</resources>
